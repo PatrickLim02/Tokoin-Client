@@ -1,0 +1,1 @@
+export const MAIN_URL = 'https://tokoin-v1.herokuapp.com';
